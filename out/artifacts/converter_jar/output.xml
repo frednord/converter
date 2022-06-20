@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<people>
+    <person>
+        <firstname>Carl Gustaf</firstname>
+        <lastname>Bernadotte</lastname>
+        <phone>
+            <mobile>0768-101801</mobile>
+            <landline>08-101801</landline>
+        </phone>
+        <address>
+            <street>Drottningholms slott</street>
+            <city>Stockholm</city>
+            <zipcode>10001</zipcode>
+        </address>
+        <family>
+            <name>Victoria</name>
+            <born>1977</born>
+            <address>
+                <street>Haga Slott</street>
+                <city>Stockholm</city>
+                <zipcode>10002</zipcode>
+            </address>
+        </family>
+        <family>
+            <name>Carl Philip</name>
+            <born>1979</born>
+            <phone>
+                <mobile>0768-101802</mobile>
+                <landline>08-101802</landline>
+            </phone>
+        </family>
+    </person>
+    <person>
+        <firstname>Barack</firstname>
+        <lastname>Obama</lastname>
+        <address>
+            <street>1600 Pennsylvania Avenue</street>
+            <city>Washington, D.C</city>
+        </address>
+        <phone>
+            <mobile>+1 123 45 66</mobile>
+            <landline>+1 123 45 67</landline>
+        </phone>
+        <family>
+            <name>Michelle Obama</name>
+            <born>1964</born>
+            <address>
+                <street>1600 Pennsylvania Avenue</street>
+                <city>Washington, D.C</city>
+            </address>
+        </family>
+    </person>
+    <person>
+        <firstname>Nikola</firstname>
+        <lastname>Tesla</lastname>
+        <phone>
+            <mobile>000 000 00</mobile>
+            <landline>00 0000 00</landline>
+        </phone>
+    </person>
+    <person>
+        <firstname>Homer</firstname>
+        <lastname>Simpson</lastname>
+        <phone>
+            <mobile>+1 555 123 456 78</mobile>
+            <landline>+1 555 234 567 89</landline>
+        </phone>
+        <address>
+            <street>742 Evergreen Terrace</street>
+            <city>Springfield</city>
+        </address>
+        <family>
+            <name>Bart Simpson</name>
+            <born>1987</born>
+            <address>
+                <street>742 Evergreen Terrace</street>
+                <city>Springfield</city>
+            </address>
+            <phone>
+                <mobile>+1 555 345 678 90</mobile>
+                <landline>+1 555 987 654 32</landline>
+            </phone>
+        </family>
+    </person>
+</people>
